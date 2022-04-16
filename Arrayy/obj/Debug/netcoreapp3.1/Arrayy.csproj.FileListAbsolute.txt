@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C# tasks\Arrayy\Arrayy\bin\Debug\netcoreapp3.1\Arrayy.exe
+C:\Users\ASUS\Desktop\C# tasks\Arrayy\Arrayy\bin\Debug\netcoreapp3.1\Arrayy.deps.json
+C:\Users\ASUS\Desktop\C# tasks\Arrayy\Arrayy\bin\Debug\netcoreapp3.1\Arrayy.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# tasks\Arrayy\Arrayy\bin\Debug\netcoreapp3.1\Arrayy.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C# tasks\Arrayy\Arrayy\bin\Debug\netcoreapp3.1\Arrayy.dll
+C:\Users\ASUS\Desktop\C# tasks\Arrayy\Arrayy\bin\Debug\netcoreapp3.1\Arrayy.pdb
+C:\Users\ASUS\Desktop\C# tasks\Arrayy\Arrayy\obj\Debug\netcoreapp3.1\Arrayy.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C# tasks\Arrayy\Arrayy\obj\Debug\netcoreapp3.1\Arrayy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# tasks\Arrayy\Arrayy\obj\Debug\netcoreapp3.1\Arrayy.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\Arrayy\Arrayy\obj\Debug\netcoreapp3.1\Arrayy.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# tasks\Arrayy\Arrayy\obj\Debug\netcoreapp3.1\Arrayy.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\Arrayy\Arrayy\obj\Debug\netcoreapp3.1\Arrayy.dll
+C:\Users\ASUS\Desktop\C# tasks\Arrayy\Arrayy\obj\Debug\netcoreapp3.1\Arrayy.pdb
+C:\Users\ASUS\Desktop\C# tasks\Arrayy\Arrayy\obj\Debug\netcoreapp3.1\Arrayy.genruntimeconfig.cache
