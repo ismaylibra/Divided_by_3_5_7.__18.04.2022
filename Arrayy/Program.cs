@@ -9,7 +9,7 @@ namespace Arrayy
             Console.Write("Eded daxil edin: ");
             int num = Convert.ToInt32(Console.ReadLine());
             ;
-            if (num<50)
+            if (num<=50)
             {
                 Console.Write("3-e bolunen ededler: ");
                 for (int i = 0; i < num; i++)
